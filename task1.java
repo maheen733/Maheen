@@ -7,7 +7,7 @@ public class task1 {
 		
 		Scanner input = new Scanner(System.in);
 
-		
+		//MAHEEN SYED
 		int[] array = getArray();
 
 		
