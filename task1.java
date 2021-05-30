@@ -7,7 +7,7 @@ public class task1 {
 		
 		Scanner input = new Scanner(System.in);
 
-		//MAHEEN SYED
+		//MAHEEN SYED SCD LAB 12
 		int[] array = getArray();
 
 		
